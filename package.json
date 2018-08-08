@@ -14,7 +14,8 @@
   },
   "module": "dist/index.es6.js",
   "files": [
-    "dist"
+    "dist",
+    "theme"
   ],
   "dependencies": {
     "@vaadin/vaadin-button": "^2.1.0-beta2"
