@@ -35,7 +35,9 @@ class WhcgChip extends PolymerElement {
 
         </style>
 
-        <vaadin-button>Buttonjhgjhgjhg</vaadin-button>
+        <vaadin-button>
+             <slot></slot>
+        </vaadin-button>
     `
     };   
 }
